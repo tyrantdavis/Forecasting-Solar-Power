@@ -5,7 +5,7 @@ This project aims to forecast the quantity of electrical energy that will be gen
 
 This project will scope, analyze, prepare, plot data, and seek to explain the findings from the analysis.
 
-Here are a couple of questions that this project has sought to answer:
+Here are a couple of questions that this project seeks to answer:
 
 - Has there been a rise in the utilization of solar power energy over the years?      
 - When did the most significant surge occur?
@@ -37,11 +37,14 @@ Forecasting is particularly effective at producing numerical predictions from da
 
 
 ## Data
-An anonymized dataset that can be used to train the machine-learning model has been found. It is a CSV file containing solor energy records. 
+An anonymized dataset that can be used to train the machine-learning model has been found. It is a CSV file containing 591 solor energy records. 
 
 
 ## Conclusions
-TBD...
-- Has there been a rise in the utilization of solar power energy over the years?      
+
+- Has there been a rise in the utilization of solar power energy over the years?
+    - **Yes. Solar power usage followed a seasonal but overall rising trend over the years according to the predictions**.
 - When did the most significant surge occur?
+    - **.The most significant growth occurring around the mid-2010s**..
 - What energy output does the model forecast?
+    - **The model indicated that electrical energy generation from solar power would peak in the middle of 2022 at roughly 14,000 GWh, then dip to around 9,000 GWh at the end of the year before rising again in 2023**.
