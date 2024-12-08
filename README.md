@@ -1,4 +1,6 @@
-# Building a Univariate Time Series Model
+# [Building a Univariate Time Series Model](https://nbviewer.org/github/tyrantdavis/Forecasting-Solar-Power/blob/main/SolarPower.ipynb) - Solar Power
+
+Click the link above for a demo.
 
 ## Introduction
 This project aims to forecast the quantity of electrical energy that will be generated in the forthcoming year from every energy source.
